@@ -4,7 +4,7 @@ Yet another ~~ridiculous~~ simple tool to check if the given binary is a .NET on
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/BizarreNULL/bounced/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc).
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/BizarreNULL/sharper/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc).
 
 ## 📝 License
 
